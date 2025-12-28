@@ -1,0 +1,21 @@
+package com.rasaluxe.enums;
+
+public enum VendorPlatformEnum {
+
+	AMAZON,
+	MATIN_IMPEX,
+	SOPALOOP,
+	OFFLINE,
+	ARTVATIKA,
+	DECOHOLD,
+	RKPM_HOMES,
+	FLIPKART,
+	UPACK,
+	DCGPACK,
+	SATYAM_CRAFT,
+	VRL_LOGIS,
+	INTENSE_GLASS_JAR,
+	CITS_AROMA,
+	JARISTIC_JAR,
+	MOULDBERRY
+}
